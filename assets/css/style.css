@@ -25,16 +25,16 @@ h1 {
     height: 50px;
 }
 
-p {
-    float: right;
-}
 
 
 img {
     max-width: 300px;
     float: left;
     margin: 20px;
-    padding-right: 50px;
+}
+
+col-8 {
+    clear: both;
 }
 
 .card-img-top {
@@ -51,3 +51,4 @@ img {
     color: white;
     text-align: center;
 }
+
